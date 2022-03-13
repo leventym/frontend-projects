@@ -1,0 +1,17 @@
+body{
+    background: gainsboro;
+    letter-spacing: 0.2em;
+    font-size: 0.9em;
+}
+
+.container{
+    max-width: 400px;
+}
+
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 110px;
+    margin-bottom: -50;
+}
